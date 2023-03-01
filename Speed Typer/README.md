@@ -1,4 +1,4 @@
-# Speed Typer
+# Speed Typer (Python)
 
 The application implements a "speed typer" type game using python.
 
