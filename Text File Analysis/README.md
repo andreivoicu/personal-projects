@@ -1,4 +1,4 @@
-# Text File Analysis
+# Text File Analysis (C)
 
 The application creates a hashtable which effectively stores all the words received.
 A string is considered a word if the length >= 3 and only contains letters.
