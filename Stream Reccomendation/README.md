@@ -1,4 +1,4 @@
-# Stream Reccomendation System (Java)
+# Stream Recommendation System (Java)
 
 The application stores information about streamers and users of a 
 streaming application and has various functionalities. The application 
