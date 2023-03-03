@@ -16,11 +16,6 @@ class HomeWindow(Toplevel):
         label.pack()
 
         helv36 = font.Font(family='Comic', size=36, weight='bold')  # font
-        #bg = ImageTk.PhotoImage(file="home menu background.png")  # background for homePage
-
-        #canvas1 = Canvas(self, width=800, height=600)
-        #canvas1.pack(fill="both", expand=True)
-        #canvas1.create_image(0, 0, image=bg, anchor="nw")
 
         # Create style Object
         style = Style()
